@@ -1,6 +1,6 @@
-# Match-Me Web
+# Social Network
 
-**Match-Me Web** is a full-stack, real-time recommendation platform built to connect users based on shared interests, proximity, and personal preferences. Whether you're seeking a dog-walking companion, professional contact, or a board game buddy, Match-Me helps you find meaningful connections with people nearby.
+**Social Network** is a full-stack, real-time recommendation platform built to connect users based on shared interests, proximity, and personal preferences. Whether you're seeking a dog-walking companion, professional contact, or a board game buddy, Social Network helps you find meaningful connections with people nearby.
 
 ---
 
